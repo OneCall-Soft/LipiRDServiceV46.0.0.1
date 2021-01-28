@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Installing service LipiSecurityService...
+Service LipiSecurityService has been successfully installed.
+Creating EventLog source LipiSecurityService in log Application...
+Committing assembly 'C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\df dev12\Desktop\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Installing assembly 'C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Installing service LipiSecurityService...
+Creating EventLog source LipiSecurityService in log Application...
+Rolling back assembly 'C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Restoring event log to previous state for source LipiSecurityService.
+Installing assembly 'C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Installing service LipiSecurityService...
+Creating EventLog source LipiSecurityService in log Application...
+Rolling back assembly 'C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.InstallLog
+   assemblypath = C:\Users\DF_Dev4\Desktop\RD_Service\LipiSecurityService\LipiSecurityService\Output\LipiSecurityService.exe
+Restoring event log to previous state for source LipiSecurityService.
